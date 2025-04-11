@@ -1,0 +1,15 @@
+[
+  {
+    "time": "2025-04-12 14:30",
+    "impact": "High",
+    "currency": "USD",
+    "title": "US CPI Release"
+  },
+  {
+    "time": "2025-04-12 16:00",
+    "impact": "Medium",
+    "currency": "EUR",
+    "title": "ECB President Speech"
+  }
+]
+Add news.json with sample economic events
